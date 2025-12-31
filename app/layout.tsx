@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     ...frameMetadata,
     "fc:frame": miniAppMetadata,
     "fc:miniapp": miniAppMetadata,
-    "base:app_id": "paste-your-app_id-here-inside-the-quotes",
+    "base:app_id": "694b11c3c63ad876c90810c3",
   },
 };
 
